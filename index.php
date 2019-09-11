@@ -9,8 +9,10 @@
 <body>
 
 <?php 
-
+define("NAME", "Mahmudul Hassan");
 echo "VS Code is awesome";
+echo "</br>";
+echo NAME;
 
 ?>
     
